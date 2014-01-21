@@ -21,6 +21,7 @@
 		0030B7D9188E0D0C0055AB0B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0030B7BB188E0D0C0055AB0B /* UIKit.framework */; };
 		0030B7E1188E0D0C0055AB0B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0030B7DF188E0D0C0055AB0B /* InfoPlist.strings */; };
 		0030B7E3188E0D0C0055AB0B /* SocialConnectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0030B7E2188E0D0C0055AB0B /* SocialConnectTests.m */; };
+		0030B7ED188E0E3D0055AB0B /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 0030B7EC188E0E3D0055AB0B /* image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0030B7DE188E0D0C0055AB0B /* SocialConnectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SocialConnectTests-Info.plist"; sourceTree = "<group>"; };
 		0030B7E0188E0D0C0055AB0B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0030B7E2188E0D0C0055AB0B /* SocialConnectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialConnectTests.m; sourceTree = "<group>"; };
+		0030B7EC188E0E3D0055AB0B /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		0030B7BD188E0D0C0055AB0B /* SocialConnect */ = {
 			isa = PBXGroup;
 			children = (
+				0030B7EC188E0E3D0055AB0B /* image.png */,
 				0030B7C6188E0D0C0055AB0B /* AppDelegate.h */,
 				0030B7C7188E0D0C0055AB0B /* AppDelegate.m */,
 				0030B7C9188E0D0C0055AB0B /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0030B7D0188E0D0C0055AB0B /* Images.xcassets in Resources */,
+				0030B7ED188E0E3D0055AB0B /* image.png in Resources */,
 				0030B7C2188E0D0C0055AB0B /* InfoPlist.strings in Resources */,
 				0030B7CB188E0D0C0055AB0B /* Main.storyboard in Resources */,
 			);
